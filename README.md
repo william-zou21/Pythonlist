@@ -11,3 +11,4 @@ Day 4: Warm Up - None. Learned - Lambda Functions. Weekly - NGG.
 Day 5: Warm Up - Classes. Learned - Dictionaries w Integers. Weekly - NGG (Almost Done)
 Day 9: warm Up - nCr in functions. Learned - Classes. Weekly - TTT Game.
 Day 12: Warm Up - IQR. Learned - Classes. Weekly - TTT Game. 
+Day 13: Warm Up - IQR. Learned - Classes. Weeekly - TTT Game. 
